@@ -4,7 +4,7 @@ Hook HawkCredentials > initWithHawkId:withKey:withAlgorithm: calls and log the H
 Device used: iPhone X (GSM), iOS 14.4 with checkra1n jailbreak
 
 ## Example
-![image](https://user-images.githubusercontent.com/9308774/124964001-7f8ba200-dfee-11eb-9d73-010304a11b65.png)
+![image](https://user-images.githubusercontent.com/9308774/124965343-068d4a00-dff0-11eb-9eea-758c45fe94e1.png)
 
 
 ## References
